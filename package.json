@@ -1,0 +1,28 @@
+{
+  "name": "argasinski.eu",
+  "version": "0.0.1",
+  "description": "My personal website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/argasek/argasinski.git"
+  },
+  "author": "Jakub Argasinski <jakub@argasinski.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/argasek/argasinski/issues"
+  },
+  "homepage": "https://github.com/argasek/argasinski",
+  "dependencies": {
+    "angular": "^1.3.6"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "load-grunt-config": "^0.16.0",
+    "load-grunt-tasks": "^1.0.0",
+    "webpack": "^1.4.13"
+  }
+}
